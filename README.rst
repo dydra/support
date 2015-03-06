@@ -11,6 +11,10 @@ To contact Dydra's support team, use one of the following two methods:
    case, do comment on the existing ticket so that we know how many users
    the ticket affects and can prioritize it accordingly.
 
+   Please include in the ticket information sufficient to reproduce the
+   problem in a concise context. The various tests in our https://github.com/dydra/http-api-tests
+   repository indicate various ways to do this.
+
 2. Otherwise (for example, if any information relating to the issue is
    confidential), email us at support@dydra.com.
 
